@@ -9,3 +9,14 @@ C:\Users\ivan0\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.ca
 C:\Users\ivan0\Desktop\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 C:\Users\ivan0\Desktop\Client\Client\obj\Debug\Client.exe
 C:\Users\ivan0\Desktop\Client\Client\obj\Debug\Client.pdb
+\\Mac\Home\Desktop\tps-5ib-22-vmanager\Client\Client\bin\Debug\Client.exe.config
+\\Mac\Home\Desktop\tps-5ib-22-vmanager\Client\Client\bin\Debug\Client.exe
+\\Mac\Home\Desktop\tps-5ib-22-vmanager\Client\Client\bin\Debug\Client.pdb
+\\Mac\Home\Desktop\tps-5ib-22-vmanager\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\tps-5ib-22-vmanager\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\tps-5ib-22-vmanager\Client\Client\obj\Debug\Client.Form1.resources
+\\Mac\Home\Desktop\tps-5ib-22-vmanager\Client\Client\obj\Debug\Client.Properties.Resources.resources
+\\Mac\Home\Desktop\tps-5ib-22-vmanager\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\tps-5ib-22-vmanager\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\tps-5ib-22-vmanager\Client\Client\obj\Debug\Client.exe
+\\Mac\Home\Desktop\tps-5ib-22-vmanager\Client\Client\obj\Debug\Client.pdb
